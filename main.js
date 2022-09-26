@@ -1,12 +1,4 @@
-// console.log('Hola')
-// console.error('ErrorConsola')
-// console.warn('esto es warning')
-// alert('holsss')
-// var variable= "Variable"
-// console.log (variable)
-
-
-// alert ('JavaScript funcionando correctamente')
+alert ('JavaScript funcionando correctamente')
 // 127.0.0.1:5500
 
 
